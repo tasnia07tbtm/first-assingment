@@ -88,6 +88,7 @@ footer{
 }
 .width img{
     width:100%;
+
     margin-left: 20px;
     margin-right: 10px;
 }
@@ -108,7 +109,7 @@ footer{
 }
 .community{
     background-image: url(shapes/shape-1.png);
-    background-position: 1250px 470px;
+    background-position: 990px 370px;
     background-repeat: no-repeat;
     background-size: 250px;
 }
