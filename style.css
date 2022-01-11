@@ -1,4 +1,4 @@
-h1{
+body h1{
     font-size: 50px;
 }
 .orange{
@@ -110,6 +110,141 @@ footer{
 .community{
     background-image: url(shapes/shape-1.png);
     background-position: 990px 370px;
+    background-repeat: no-repeat;
+    background-size: 250px;
+}
+.half{
+    width: 50%;
+ padding-left: 10%;
+}
+.half img{
+    width:100%;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.black{
+    background-color: black;
+    text-decoration: none;
+    color:white;
+}
+.red{
+    color: red;
+}
+.f{
+    font-size: 8px;
+    margin-bottom: 15px;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+p{
+    font-size: 20px;
+
+}
+footer{
+    font-size: 15px;
+    margin-top:30px ;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 40px;
+}
+.half-width img{
+    width: 70%;
+    margin-bottom: auto;
+}
+.link{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    font-weight:5px ;
+    padding: 10px 40px;
+}
+.line{
+    
+    border-left:5px  red solid;
+    border-image-slice: 1;
+    border-radius: 5px;
+    padding:10px;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 150px;
+}
+.in{
+    text-align: center;
+
+}
+.m{
+    background-image: url(illustrators/illustrator-1.png);
+    background-color:rgb(197, 227, 238) ;
+    background-position: 10px 0px;
+    background-size:100px;
+    background-repeat: no-repeat;
+    padding:80px 15px 10px 15px;
+    margin-left: 20px;
+    margin-right: 5px;
+    width: 33%;
+    border-radius: 15px;
+}
+.v{
+    background-image: url(illustrators/illustrator-2.png);
+    background-color:rgb(248, 231, 230);
+    background-position:10px 0px;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    padding: 80px 15px 10px 15px;
+    margin-left: 5px;
+    margin-right: 10px;
+    width:33%;
+    border-radius: 15px;
+}
+.g{
+    background-image: url(illustrators/illustrator-3.png);
+    background-color: cornsilk;
+    width: 33%;
+    background-position: 10px 0px;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    padding: 80px 15px 10px 15px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+.width{
+  width: 50%;
+ padding-left: 10%;
+}
+.width img{
+    width:100%;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.develop{
+    background-image: url(shapes/shape-1.png);
+    background-position: 50px 70px;
+    background-repeat: no-repeat;
+    background-size: 250px;
+}
+.portion{width: 50%;
+    padding-left: 2%;
+   }
+.portion img{   
+    width: 90%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+
+}
+.community{
+    background-image: url(shapes/shape-1.png);
+    background-position: 1250px 470px;
     background-repeat: no-repeat;
     background-size: 250px;
 }
